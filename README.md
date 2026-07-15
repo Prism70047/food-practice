@@ -1,1 +1,1 @@
-# food-forAI
+# practice project
